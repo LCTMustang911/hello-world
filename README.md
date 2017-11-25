@@ -1,3 +1,7 @@
 # hello-world
 test 1 2 test
-loooooooooooooooool
+
+Hello i'm just a guy who wants to have fun with my friends
+
+
+looooooooooool
